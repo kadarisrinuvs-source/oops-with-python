@@ -1,0 +1,3 @@
+d1=dog()
+d1.eat()
+d1.speak()

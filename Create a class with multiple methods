@@ -1,5 +1,5 @@
 class account:
-    holdername="Saiteja"
+    holdername="srinu"
     accnumber="2334"
     balance=500
 
